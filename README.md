@@ -43,3 +43,7 @@ A canteen management web application for SMA Negeri 3 Bojonegoro, featuring menu
 2. Configure database credentials in `koneksi.php`.
 3. Place the project files in your web server's document root (e.g., `htdocs` for XAMPP).
 4. Open `index.php` in your browser.
+
+<!-- last-updated -->
+_Last updated: 2026-09-05_
+
